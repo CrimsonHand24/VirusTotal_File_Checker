@@ -1,0 +1,6 @@
+
+Directory = "C:/Users/wolfc/Downloads/" #File directory to scan for files
+
+Hours = "4" #Files 4 hours ago will be checked this is the default
+
+
